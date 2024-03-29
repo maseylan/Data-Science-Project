@@ -1,6 +1,7 @@
-# Youtuber Data
-Cleaning and editing
+# WELOCME TO MY PROJECT REPOSITORY
+Mas Eylan Data Science Project
+# Python 
+# R
+# MySql
 
-# House Data Prediction
-Visualization data for correlation data columns
 
